@@ -51,4 +51,29 @@ Here, in this repository, I want to share my experience, statistics, and lessons
 - **Specialisation in Testing 🔍: 1.5 hours**:
   An exciting venture this year was creating a Cybersecurity calendar, allowing me to explore and document cybersecurity implications in testing practices. This project was an innovative way to blend my interest in cybersecurity with my specialization in testing, further enhancing my skills in this critical area.
 
-![2023 Learning Statistics Screenshot](https://github.com/MariyaLcs/TechGrowthJourney/blob/main/2022.png)
+![2021 Learning Statistics Screenshot](https://github.com/MariyaLcs/TechGrowthJourney/blob/main/2022.png)
+
+## 2021: The Year of Transition to Engineering and Discovery
+
+2021 marked a significant milestone in my journey within the tech industry - finding my first full-time job as an engineer. This year was all about transitions, learning, and embracing new challenges as I officially stepped into the engineering role.
+
+### My Learning Journey Through the Year:
+
+- **Interview Preparation 🕴: 1 hour**:
+  A significant focus was on preparing for interviews, sharpening both my technical understanding and communication skills to navigate through the recruitment process.
+
+- **AWS & Testing Tools 🔧: 1.5 hours**:
+  I explored AWS and various testing tools, diving into these essential technologies that would underpin my future projects. My approach to learning these tools was characterized by curiosity and a drive to understand their practical applications.
+
+- **Programming Languages Mastery 💻: 2.5 hours**:
+  The cornerstone of my year was dedicated to mastering programming languages such as Python, JavaScript, and TypeScript. My journey through these languages was facilitated by engaging in bootcamps and courses that were either free or highly affordable. This aspect of my learning highlights a key theme of the year: the pursuit of knowledge is not hindered by financial constraints but enabled through the wealth of accessible educational resources available online.
+
+- **Career and Personal Branding 🚀: 1 hour**:
+  This year also saw me venturing into personal branding and career development, significantly marked by participating in a mentorship program. This experience was particularly notable for the guidance received from an experienced mentor from TikTok, which was instrumental in my professional growth.
+
+- **Specialization as a Developer 👩‍💻: 1.5 hours**:
+  Further specializing in development, I engaged in projects and activities that would refine my skills as a developer. The highlight of this endeavor was not just the technical learning but also the realization of the importance of continuous learning and adaptation in the tech field.
+
+2021 was a year of firsts - my first engineering job, the first time I navigated through numerous learning platforms to find resources that were free or financially feasible, and the first time I truly understood the value of mentorship and community in the tech industry. It was a year defined by the discovery of a wealth of knowledge and the beginning of a journey towards becoming a more skilled and versatile engineer.
+
+![2021 Learning Statistics Screenshot](https://github.com/MariyaLcs/TechGrowthJourney/blob/main/2021.png)
