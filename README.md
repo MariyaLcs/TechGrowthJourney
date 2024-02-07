@@ -30,7 +30,7 @@ Here, in this repository, I want to share my experience, statistics, and lessons
 
 ![2023 Learning Statistics Screenshot](https://github.com/MariyaLcs/TechGrowthJourney/blob/main/2023.png)
 
-## 2022: Year of Growth and New Experiences in Tech
+## 🌟 2022: Year of Growth and New Experiences in Tech
 
 2022 was a transformative year for me, highlighted by my active involvement in two testing-related client projects. These projects not only defined my focus for the year but also pushed me to deepen my expertise in testing, explore automation from a DevOps perspective, and engage in various conferences to broaden my knowledge and skill set.
 
@@ -53,7 +53,7 @@ Here, in this repository, I want to share my experience, statistics, and lessons
 
 ![2021 Learning Statistics Screenshot](https://github.com/MariyaLcs/TechGrowthJourney/blob/main/2022.png)
 
-## 2021: The Year of Transition to Engineering and Discovery
+## 🌟 2021: The Year of Transition to Engineering and Discovery
 
 2021 marked a significant milestone in my journey within the tech industry - finding my first full-time job as an engineer. This year was all about transitions, learning, and embracing new challenges as I officially stepped into the engineering role.
 
