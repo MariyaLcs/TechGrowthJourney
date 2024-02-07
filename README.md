@@ -20,7 +20,7 @@ Here, in this repository, I want to share my experience, statistics, and lessons
 
 ### Here’s a glimpse into how I divided my time across various learning domains, imagining it as a "study workday":
 
-- **Specialization 📚: 1 hour**:
+- **Specialisation 📚: 1 hour**:
   Enhanced my knowledge in media, industry, and banking through online conferences and educational videos.
   Spent significant time on the Scrimba platform focusing on front-end development career path.
 - **Career 🚀: 0.5 hour**: Engaged deeply with professional communities, especially those supporting women in tech. Participated in a substantial mentoring program and attended numerous professional meetings.
