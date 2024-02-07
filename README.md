@@ -29,3 +29,26 @@ Here, in this repository, I want to share my experience, statistics, and lessons
 - **AWS ☁️: 1.5 hours**: Earned a certificate in SAA and triumphed in the AWS Game Day with my team. Dedicated time to exploring AWS services, with a keen interest in security aspects.
 
 ![2023 Learning Statistics Screenshot](https://github.com/MariyaLcs/TechGrowthJourney/blob/main/2023.png)
+
+## 2022: Year of Growth and New Experiences in Tech
+
+2022 was a transformative year for me, highlighted by my active involvement in two testing-related client projects. These projects not only defined my focus for the year but also pushed me to deepen my expertise in testing, explore automation from a DevOps perspective, and engage in various conferences to broaden my knowledge and skill set.
+
+### Here’s a glimpse into how I divided my time across various learning domains, imagining it as a "study workday":
+
+- **AWS Preparation ☁️: 1 hour**:
+  I dedicated time to delve into AWS technologies, aiming to fortify my cloud computing skills and preparing for the SAA examination. Though I didn't take the exam, the preparation process was enriching.
+
+- **Agile DevOps & Data Mastery 🔄: 2 hours**:
+  This year was marked by achieving my PSM (Professional Scrum Master) certification, a testament to my commitment to mastering Agile practices and understanding the intricacies of DevOps and data management. Obtaining the PSM certificate was a highlight, offering new insights into project management and team dynamics.
+
+- **Java & TypeScript Proficiency 💻: 1.5 hours**:
+  My journey in learning Java and TypeScript continued, with these languages playing a crucial role in my development projects and testing tasks. Hands-on practice combined with theoretical study deepened my understanding of these essential programming languages.
+
+- **Career Development and Networking 🚀: 2.5 hours**:
+  A significant new experience for me this year was stepping into a mentoring role for the first time. Engaging in various professional development activities and attending conferences, I not only enriched my professional network but also shared my knowledge and experiences, contributing to the growth of others in the tech community.
+
+- **Specialisation in Testing 🔍: 1.5 hours**:
+  An exciting venture this year was creating a Cybersecurity calendar, allowing me to explore and document cybersecurity implications in testing practices. This project was an innovative way to blend my interest in cybersecurity with my specialization in testing, further enhancing my skills in this critical area.
+
+![2023 Learning Statistics Screenshot](https://github.com/MariyaLcs/TechGrowthJourney/blob/main/2022.png)
