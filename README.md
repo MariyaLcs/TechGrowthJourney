@@ -28,4 +28,4 @@ Here, in this repository, I want to share my experience, statistics, and lessons
 - **Testing, DevOps, and Gen-AI 🤖: 0.5 hour**: As a full-stack engineer, expanded my knowledge in testing, DevOps, and explored Gen-AI. Undertook an exciting project focused on bot automation.
 - **AWS ☁️: 1.5 hours**: Earned a certificate in SAA and triumphed in the AWS Game Day with my team. Dedicated time to exploring AWS services, with a keen interest in security aspects.
 
-![Alt text](image.png)
+![2023 Learning Statistics Screenshot](/TechGrowthJourney\2023.png)
