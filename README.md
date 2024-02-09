@@ -94,25 +94,25 @@ Despite the challenges of 2020, it was a year of considerable growth and learnin
 
 ## 📘 2019: The Year of Full-Time Learning and New Beginnings
 
-2019 was a pivotal year for me, marking the beginning of my journey into full-time learning in the tech industry. This year, I made the transition from part-time study to dedicating myself fully to mastering new skills and technologies from home, supported by a unique organization that offered free development education to all interested participants.
+In 2019, I embarked on a transformative journey into full-time learning within the tech industry, transitioning from part-time study to fully immersing myself in mastering new skills and technologies from the comfort of my home. This transition was supported by an organization that offered free development education to all interested participants, marking the beginning of an exciting chapter in my career.
 
 ### My Structured Learning Journey Through the Year:
 
-- **Interview Preparation 🕴: 114 hours**:
-  My first foray into technical interviews was both challenging and rewarding. I spent 114 hours preparing for interviews, a critical step that laid the groundwork for my future career in technology.
+- **Interview Preparation 🕴**:
+  I dedicated significant time to preparing for technical interviews, navigating through the challenges and rewards of this essential step towards building a career in technology.
 
-- **Testing Mastery 🔍: 202 hours**:
-  Delving into the world of testing, I dedicated 202 hours to learning about testing methodologies, with a special focus on automated testing. This year marked my first completion of a course on this subject, opening new doors in understanding software quality assurance.
+- **Testing Mastery 🔍**:
+  Delving into the realm of testing, I explored various methodologies and techniques, with a particular focus on automated testing. This marked the beginning of my journey towards understanding software quality assurance.
 
-- **JavaScript Fundamentals 💻: 119 hours**:
-  JavaScript was a key area of focus, with 119 hours spent on mastering the language. This effort was bolstered by completing a comprehensive course on Udemy, which significantly enhanced my programming skills.
+- **JavaScript Fundamentals 💻**:
+  Mastering JavaScript became a primary focus, as I worked diligently to grasp the fundamentals of this versatile programming language. Completing a comprehensive course on Udemy provided a solid foundation for my programming skills.
 
-- **Career and Personal Branding 🚀: 127 hours**:
-  Developing my career and personal brand took a central stage, with 127 hours invested in creating my own presentations and participating in community events. My presentation on a meetup was a significant milestone, showcasing my learning and projects to the tech community.
+- **Career and Personal Branding 🚀**:
+  Developing my career and personal brand took center stage, as I created presentations and participated in community events to showcase my learning and projects. Notably, presenting at a meetup was a significant milestone in my journey.
 
-- **Specialization in Development 👩‍💻: 380 hours**:
-  The core of my year was spent on specialization in both front-end and back-end development, accumulating 380 hours of intensive learning. This was facilitated by the year-long free course that provided structured education, guided by enthusiastic teachers and a solid curriculum.
+- **Specialization in Development 👩‍💻**:
+  The heart of my year was dedicated to specialization in both front-end and back-end development, immersing myself in intensive learning sessions. A year-long free course provided structured education, guided by knowledgeable instructors and a well-rounded curriculum.
 
-2019 was truly the year I embraced the full spectrum of learning opportunities in technology. From preparing for my first technical interviews to diving deep into testing, JavaScript, and development specialization, each step was a move towards realizing my aspirations. It was a year filled with firsts - my first technical interview, my first automated testing course, and my first major programming course on Udemy. Completing the year-long free development course was a highlight, symbolizing not just the end of a year of learning, but the beginning of a lifelong journey in technology.
+2019 was a year of significant growth and exploration, filled with firsts and exciting challenges. From preparing for technical interviews to mastering testing, JavaScript, and development specialization, each step propelled me forward on my path in technology. Completing the year-long free development course symbolized not just the end of a year of learning, but the beginning of an enriching journey in technology.
 
 ![2019 Learning Statistics Screenshot](https://github.com/MariyaLcs/TechGrowthJourney/blob/main/2019.png)
