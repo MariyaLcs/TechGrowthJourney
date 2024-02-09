@@ -98,19 +98,19 @@ In 2019, I embarked on a transformative journey into full-time learning within t
 
 ### My Structured Learning Journey Through the Year:
 
-- **Interview Preparation 🕴**:
+- **Interview Preparation 🕴: 0.5 hours**:
   I dedicated significant time to preparing for technical interviews, navigating through the challenges and rewards of this essential step towards building a career in technology.
 
-- **Testing Mastery 🔍**:
+- **Testing Mastery 🔍: 1 hour**:
   Delving into the realm of testing, I explored various methodologies and techniques, with a particular focus on automated testing. This marked the beginning of my journey towards understanding software quality assurance.
 
-- **JavaScript Fundamentals 💻**:
+- **JavaScript Fundamentals 💻: 0.5 hours**:
   Mastering JavaScript became a primary focus, as I worked diligently to grasp the fundamentals of this versatile programming language. Completing a comprehensive course on Udemy provided a solid foundation for my programming skills.
 
-- **Career and Personal Branding 🚀**:
+- **Career and Personal Branding 🚀: 0.5 hours**:
   Developing my career and personal brand took center stage, as I created presentations and participated in community events to showcase my learning and projects. Notably, presenting at a meetup was a significant milestone in my journey.
 
-- **Specialization in Development 👩‍💻**:
+- **Specialisation in Development 👩‍💻: 1.5 hours**:
   The heart of my year was dedicated to specialization in both front-end and back-end development, immersing myself in intensive learning sessions. A year-long free course provided structured education, guided by knowledgeable instructors and a well-rounded curriculum.
 
 2019 was a year of significant growth and exploration, filled with firsts and exciting challenges. From preparing for technical interviews to mastering testing, JavaScript, and development specialization, each step propelled me forward on my path in technology. Completing the year-long free development course symbolized not just the end of a year of learning, but the beginning of an enriching journey in technology.
