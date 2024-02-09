@@ -2,7 +2,7 @@
 
 This repository documents my ongoing journey of learning and growth in the tech industry, featuring yearly statistics, reflections, and key learning resources.
 
-My practice of maintaining detailed statistics and analyzing the time spent on achieving professionalism is based on the 10,000-hour rule.
+My practice of maintaining detailed statistics and analyzing the time spent on achieving professionalism is rooted in the 10,000-hour rule, suggesting that mastery in any field requires extensive, dedicated practice.
 
 By tracking my hours of study, work, and practice, this isn’t just about reaching a milestone; it’s my live experiment to prove that consistent effort and dedication can truly shape one's mastery in the dynamic world of tech.
 
@@ -30,19 +30,19 @@ Here, in this repository, I want to share my experience, statistics, and lessons
 
 ### Here’s a glimpse into how I divided my time across various learning domains, imagining it as a "study workday":
 
-- **AWS Preparation ☁️: 1 hour**:
+- **AWS Preparation ☁️: 0.5 hours**:
   I dedicated time to delving into AWS technologies, aiming to fortify my cloud computing skills and prepare for the SAA examination. Though I didn't take the exam, the preparation process was enriching.
 
-- **Agile DevOps & Data Mastery 🔄: 2 hours**:
+- **Agile DevOps & Data Mastery 🔄: 0.5 hours**:
   This year was marked by achieving my PSM (Professional Scrum Master) certification, a testament to my commitment to mastering Agile practices and understanding the intricacies of DevOps and data management. Obtaining the PSM certificate was a highlight, offering new insights into project management and team dynamics.
 
-- **Java & TypeScript Proficiency 💻: 1.5 hours**:
+- **Java & TypeScript Proficiency 💻: 0.5 hours**:
   My journey in learning Java and TypeScript continued, with these languages playing a crucial role in my development projects and testing tasks. Hands-on practice combined with theoretical study deepened my understanding of these essential programming languages.
 
-- **Career Development and Networking 🚀: 2.5 hours**:
+- **Career Development and Networking 🚀: 1 hour**:
   A significant new experience for me this year was stepping into a mentoring role for the first time. Engaging in various professional development activities and attending conferences, I not only enriched my professional network but also shared my knowledge and experiences, contributing to the growth of others in the tech community.
 
-- **Specialisation in Testing 🔍: 1.5 hours**:
+- **Specialisation in Testing 🔍: 0.5 hours**:
   An exciting venture this year was creating a Cybersecurity calendar, allowing me to explore and document cybersecurity implications in testing practices. This project was an innovative way to blend my interest in cybersecurity with my specialization in testing, further enhancing my skills in this critical area.
 
 ![2021 Learning Statistics Screenshot](https://github.com/MariyaLcs/TechGrowthJourney/blob/main/2022.png)
