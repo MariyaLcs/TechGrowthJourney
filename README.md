@@ -77,3 +77,23 @@ Here, in this repository, I want to share my experience, statistics, and lessons
 2021 was a year of firsts - my first engineering job, the first time I navigated through numerous learning platforms to find resources that were free or financially feasible, and the first time I truly understood the value of mentorship and community in the tech industry. It was a year defined by the discovery of a wealth of knowledge and the beginning of a journey towards becoming a more skilled and versatile engineer.
 
 ![2021 Learning Statistics Screenshot](https://github.com/MariyaLcs/TechGrowthJourney/blob/main/2021.png)
+
+## 🌱 2020: Year of Immersive Learning and Foundation Building
+
+In 2020, as the world navigated through unprecedented times, I embarked on a significant journey within the tech industry. This year was foundational, marked by my acceptance into a professional bootcamp, a leap that was both challenging and rewarding. Amidst the uncertainty brought by COVID-19, learning and development became my solace and strength.
+
+### My Learning Journey Through the Year:
+
+- **Career & Interview Preparation 🕴**: Each day, I dedicated approximately 0.5 hours to preparing for interviews. This preparation was crucial for sharpening my technical and communication skills.
+
+- **AWS & Testing Tools 🔧**: Daily, around 0.5 hours were spent exploring AWS and various testing tools. These sessions laid the groundwork for my understanding of cloud technologies and quality assurance.
+
+- **JavaScript Mastery 💻**: Each day saw me spending roughly 0.5 hours mastering JavaScript. This deep dive into programming was supported by bootcamps and courses, emphasizing accessible and affordable learning.
+
+- **Career and Personal Branding 🚀**: Nearly 1 hour each day was focused on personal branding and career development. This included engaging in mentorship programs and attending my first technical conference, which significantly enriched my professional journey.
+
+- **Development Specialization 👩‍💻**: The bulk of my learning, about 3.5 hours per day, was dedicated to development specialization. This intensive learning included completing two major projects and additional study to solidify my skills.
+
+Despite the challenges of 2020, it was a year of considerable growth and learning. My journey through bootcamps, courses, and community engagement laid a strong foundation for my career in technology. It was a year that underscored the importance of resilience, continuous learning, and the value of community support in times of uncertainty.
+
+![2020 Learning Statistics Screenshot](https://github.com/MariyaLcs/TechGrowthJourney/blob/main/2020.png)
